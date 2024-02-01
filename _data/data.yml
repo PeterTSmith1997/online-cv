@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Peter Smith
     tagline: CEO and Student
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: peter@petersweb.me.uk
@@ -31,20 +31,8 @@ sidebar:
     pdf: 
 
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
-
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
       I am currently a master's student in computer science, 
       dedicating my research to keeping individuals safe and protected online. 
@@ -58,28 +46,15 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MComp in Computer Science
+        university: University of Northumbria
+        time: 2016 - 2024
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I have studied a broad range of disciplines within the field of computer science that have enhanced my skillset
+          This has included programming from beginner to advanced, using languages such as C, C++, C#, Java, React. 
+          My final year project, looking at a multivariate analsysis for attack detection on websites, achieved a distinction,
+          and my undergraduate project on the same topic achieved 89%
+
 
 experiences:
     title: Experiences
