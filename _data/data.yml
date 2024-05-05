@@ -157,7 +157,7 @@ publications:
     intro: |
       My recent papers
     papers:
-      - title: Using Multivariate Heuristic Analysis for Detecting Attacks in Website Log Files: A Formulaic Approach
+      - title: Using Multivariate Heuristic Analysis for Detecting Attacks in Website Log Files A Formulaic Approach
         link: https://doi.org/10.1007/978-3-031-56950-0_30
         authors: Peter Smith, John Robson, Nick Dalton
         conference: 2nd International Conference on Advances in Computing Research, ACR 2024
