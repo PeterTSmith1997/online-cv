@@ -146,6 +146,11 @@ projects:
       - title: Walbottle Village Tenants and Residents Association
         link: https://www.walbottlevillagetra.co.uk/
         tagline: "I helped deploy the new website for Walbottle Village Tenants and Residents Association working with clock-work desgin."
+        
+    assignments:
+      - title: Walbottle Village Hall
+        link: https://walbottlevi.com/
+        tagline: "I help manage the website for Walbottle Village hall."
 
 
 publications:
@@ -153,10 +158,10 @@ publications:
     intro: |
       My recent papers
     papers:
-      - title: 
-        link: 
-        authors: 
-        conference: 
+      - title: Using Multivariate Heuristic Analysis for Detecting Attacks in Website Log Files: A Formulaic Approach
+        link: https://doi.org/10.1007/978-3-031-56950-0_30
+        authors: Peter Smith, John Robson, Nick Dalton
+        conference: 2nd International Conference on Advances in Computing Research, ACR 2024
 
 skills:
     title: Skills &amp; Proficiency
