@@ -18,7 +18,7 @@ sidebar:
     timezone: UK
     citizenship:
     website: petertsmith.com #do not add http://
-    linkedin: alandoe
+    linkedin: peter-smith-07690214b
     xing: 
     github: PeterTSmith1997
     telegram: # add your nickname without '@' sign
@@ -34,7 +34,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      I am currently a master's student in computer science, 
+      I am currently a PHD student in computer science, 
       dedicating my research to keeping individuals safe and protected online. 
       I also run two companies, dedicated to helping people get online and keeping them safe online.
       I have worked with a variety of organisations from the NHS to small village 
@@ -45,7 +45,12 @@ career-profile:
 
 education:
     title: Education
-    info:
+    info:    
+      - degree: PHD in Computer Science
+        university: University of Northumbria
+        time: 2024 - 2030
+        details: |
+          I am researching Improvement of the multivariate approach for website attack detection using AI
       - degree: MComp in Computer Science
         university: University of Northumbria
         time: 2016 - 2024
